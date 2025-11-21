@@ -1,7 +1,7 @@
 # SenseCAP Watcher – OpenAI Realtime Demo
 
 
-Based of the openai-realtime software from the official repository https://github.com/Seeed-Studio/SenseCAP-Watcher-Firmware
+Based off the openai-realtime software from the official repository https://github.com/Seeed-Studio/SenseCAP-Watcher-Firmware
 
 This repository contains the ESP-IDF firmware that powers the **SenseCAP Watcher** demo unit shown in the OpenAI Realtime video. The app pairs the Watcher’s camera, microphone, dial, and speaker with OpenAI’s Realtime API to deliver hands-free multimodal assistance:
 
